@@ -32,7 +32,7 @@ http://127.0.0.1:5000/finance/1/2018
 http://127.0.0.1:5000/finance/2/2017
 
 
-### To directly view the JSON response from an aPI reuest:
+### To directly view the JSON response from an API request:
 
 http://127.0.0.1:5000/api_1_0/get_finances/1/2018
 
